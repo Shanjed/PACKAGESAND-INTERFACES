@@ -1,7 +1,7 @@
 package com.company;
 
 interface AnimalMove {
-    default void moveShava56415(){
+    default void moveShanjed56275(){
         System.out.println("Animal is moving.");
     }
 }
